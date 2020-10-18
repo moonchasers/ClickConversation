@@ -6,13 +6,13 @@ $(function() {
     // WTF.init({
 
     //     heading: [
-    //         "It's a fucking",
-    //         "Check this shit out, a fucking"
+    //         "Try this conversation",
+    //         "Give it a go with someone"
     //     ],
     //     response: [
-    //         "Already fucking seen one",
-    //         "Give me a-fucking-nother one",
-    //         "Don't really give a fuck"
+    //         "Help, I've run out of small talk",
+    //         "Not really feeling that one",
+    //         "I need a new one"
     //     ],
     //     template: [
     //         "Big @color @animal",
