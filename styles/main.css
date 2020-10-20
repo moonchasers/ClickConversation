@@ -90,7 +90,7 @@ aside {
 	display: inline;
 }
 
-#share-facebook {}
+#share-facebook {position: relative; top: 0px;}
 #share-twitter {position: relative; top: 0px;}
 .twitter-share-button {
 	font-size: 11px;	
