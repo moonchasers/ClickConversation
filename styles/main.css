@@ -91,11 +91,8 @@ aside {
 }
 
 #share-facebook {}
-#share-twitter {position: relative; top: -3px;}
-.twitter-share-button {
-	font-size: 11px;	
-	color: #000;
-}
+#share-twitter {vertical-align: middle;}
+.twitter-share-button {}
 
 footer {
 	text-transform: none;
