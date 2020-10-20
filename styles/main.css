@@ -91,6 +91,11 @@ aside {
 }
 
 #share-facebook {position: relative; top: 0px;}
+.fb-share-button {
+	font-size: 11px;	
+	color: #000;
+	vertical-align: middle;
+}
 #share-twitter {position: relative; top: 0px;}
 .twitter-share-button {
 	font-size: 11px;	
