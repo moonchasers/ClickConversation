@@ -31,17 +31,17 @@ body {
 }
 
 p {
-  font-size: 1em;
+  font-size: small;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: medium;
   margin: 0;
   padding: 0;
 }
 
 h2 {
-  font-size: 3em;
+  font-size: large;
   margin: 0;
   padding: 0;
 }
