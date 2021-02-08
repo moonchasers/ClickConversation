@@ -21,29 +21,6 @@ body {
 	top: 50%;
 }
 
-.wrapper {
-  margin-right: auto; 
-  margin-left:  auto; 
-  max-width: 960px; 
-  padding-right: 10px; 
-  padding-left:  10px; 
-}
-
-p {
-  font-size: medium;
-  line-height: normal;
-}
-
-h1 {
-  font-size: large;
-  line-height: normal;
-}
-
-h2 {
-  font-size: x-large;
-  line-height: normal;
-}
-
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -94,6 +71,30 @@ h2 {
     text-align: left;
   }
 }
+
+.wrapper {
+  margin-right: auto; 
+  margin-left:  auto; 
+  max-width: 960px; 
+  padding-right: 10px; 
+  padding-left:  10px; 
+}
+
+p {
+  font-size: medium;
+  line-height: normal;
+}
+
+h1 {
+  font-size: large;
+  line-height: normal;
+}
+
+h2 {
+  font-size: x-large;
+  line-height: normal;
+}
+
 
 header, article {
 	font-weight: 800;
