@@ -21,8 +21,6 @@ body {
 	top: 50%;
 }
 
-
-
 .wrapper {
   margin-right: auto; 
   margin-left:  auto; 
@@ -67,7 +65,7 @@ h2 {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #676767;
   color: white;
 }
 
