@@ -142,7 +142,9 @@ noscript {
 }
 
 #generate {
+	text-decoration: none;
 	font-size: 20px;
+	position: absolute;
 	text-align: center;
 	color: #333232;
 }
