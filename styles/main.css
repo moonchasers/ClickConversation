@@ -74,6 +74,21 @@ body {
   }
 }
 
+header, article {
+	font-weight: 800;
+	color: #000;
+}
+
+header {
+	margin-top: 120px;
+}
+
+header h1 {
+	font-size: 60px;
+	line-height: 60px;
+	display: none;
+}
+
 #output {
 	font-size: 48px;
 	line-height: 48px;
