@@ -31,13 +31,15 @@ body {
 
 p {
   font-size: medium;
-   line-height: normal;
+  line-height: normal;
+  max-width: 960px; 
 }
 
 h1 {
   font-size: large;
   margin: 0;
   padding: 0;
+  max-width: 960px; 
   line-height: normal;
 }
 
@@ -45,6 +47,7 @@ h2 {
   font-size: x-large;
   margin: 0;
   padding: 0;
+  max-width: 960px; 
   line-height: normal;
 }
 
