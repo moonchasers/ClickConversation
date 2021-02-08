@@ -30,19 +30,19 @@ body {
 }
 
 p {
-  font-size: small;
+  font-size: medium;
    line-height: normal;
 }
 
 h1 {
-  font-size: medium;
+  font-size: large;
   margin: 0;
   padding: 0;
   line-height: normal;
 }
 
 h2 {
-  font-size: large;
+  font-size: x-large;
   margin: 0;
   padding: 0;
   line-height: normal;
