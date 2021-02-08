@@ -29,6 +29,24 @@ body {
   padding-left:  10px; 
 }
 
+p {
+  font-size: small;
+   line-height: normal;
+}
+
+h1 {
+  font-size: medium;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+
+h2 {
+  font-size: large;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
 
 .topnav {
   overflow: hidden;
